@@ -1,0 +1,22 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: HookDll - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Release/HookDll.res" /d "NDEBUG" /d "_AFXDLL" "E:\Code\Mine\MFCDeepStudy\Hook\AlterationSpirit\HookDll\HookDll.rc"" 
+Creating command line "link.exe /nologo /subsystem:windows /dll /incremental:no /pdb:"Release/HookDll.pdb" /machine:I386 /def:".\HookDll.def" /out:"../bin/HookDll.dll" /implib:"Release/HookDll.lib"  .\Release\HookDll.obj .\Release\StdAfx.obj .\Release\HookDll.res "
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+   Creating library Release/HookDll.lib and object Release/HookDll.exp
+
+
+
+<h3>Results</h3>
+HookDll.dll - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
