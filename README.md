@@ -1,6 +1,6 @@
-# 改建精灵 (AlterationSpirit)
+# 魔兽改建精灵 (AlterationSpirit)
 
-魔兽世界快捷键绑定配置工具。
+魔兽争霸 war3 快捷键绑定配置工具
 
 ## 功能
 
